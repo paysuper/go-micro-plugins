@@ -56,8 +56,8 @@ require (
 	gopkg.in/DataDog/dd-trace-go.v1 v1.16.1
 	gopkg.in/ldap.v3 v3.0.3
 	gopkg.in/redis.v3 v3.6.4
-	k8s.io/api v0.0.0-20190726022912-69e1bce1dad5
-	k8s.io/apimachinery v0.0.0-20190727130956-f97a4e5b4abc
+	k8s.io/api v0.0.0-20220420164651-0bf1867dde52
+	k8s.io/apimachinery v0.18.19
 	k8s.io/client-go v11.0.1-0.20190409021438-1a26190bd76a+incompatible
 )
 
